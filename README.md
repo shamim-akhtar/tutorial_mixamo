@@ -46,7 +46,7 @@ This repository is provided for educational purposes. Feel free to use and modif
 For more information, visit [Faramira.com](https://faramira.com) for related tutorials and resources. Happy coding!
 
 
-View the tutorial on YouTube.
+## View the tutorial on YouTube.
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=XHv-cbQ_P2E
 " target="_blank"><img src="http://img.youtube.com/vi/XHv-cbQ_P2E/0.jpg" 
