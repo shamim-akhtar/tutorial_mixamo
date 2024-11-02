@@ -6,7 +6,7 @@
 # Importing and Animating 3D Models from Mixamo in Unity
 
 
-![Jigsaw](https://github.com/shamim-akhtar/jigsaw-puzzle/blob/main/jigsaw.jpg)
+![Mixamo](https://github.com/shamim-akhtar/tutorial_mixamo/blob/main/Featured.JPG)
 
 ## Repository Overview
 
